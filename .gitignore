@@ -1,0 +1,6 @@
+data/
+src/data/
+*.csv
+*.pkl
+*.npy
+*.npz
